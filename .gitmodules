@@ -1,0 +1,6 @@
+[submodule "private-potential-enigma"]
+	path = private-potential-enigma
+	url = git@github.com:ogdendavis/private-potential-enigma.git
+[submodule "private"]
+	path = private
+	url = git@github.com:ogdendavis/private-potential-enigma.git
