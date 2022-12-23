@@ -51,3 +51,5 @@ Tangental note: If humanity were a space-faring species as portrayed in most pop
 Ok, so now I’m going to just start a GitHub repo and copy this note in as the first commit, and we’ll go from there.
 
 # I could be a Software Artist. How cool is that!
+
+This is an art project about (slash attempt at?) digitizing human consciousness
