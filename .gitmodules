@@ -1,3 +1,4 @@
 [submodule "private"]
 	path = private
 	url = git@github.com:ogdendavis/private-potential-enigma.git
+	branch = main
